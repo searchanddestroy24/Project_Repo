@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+# never commit API keys or passwords (see passwd.py.template in Unit 7)
+passwd.py
+.streamlit/secrets.toml
+# data/scooters.db is NOT ignored on purpose: the deployed app needs it to train the model
