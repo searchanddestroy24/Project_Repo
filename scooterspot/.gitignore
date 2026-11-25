@@ -1,5 +1,0 @@
-__pycache__/
-.venv/
-.DS_Store
-.ipynb_checkpoints/
-# data/history.csv is NOT ignored on purpose: it must be on GitHub so the app can train the model
